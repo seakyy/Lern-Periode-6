@@ -20,3 +20,6 @@ Herr Colic hat uns wieder ein kleines Projekt vorgeschlagen, wir sollten nicht B
 - [ ] Wie zählt man die Buchstaben zusammen
 - [ ] Methode zu translate finden
 - [ ] Verschlüsselten TExt entschlüsseln
+
+Hier finden Sie eine "Trailer" für die nächsten Arbeitspackete: 
+https://stackoverflow.com/questions/36651729/dice-sorensen-distance-error-calculating-bigrams-without-using-intersect-method
