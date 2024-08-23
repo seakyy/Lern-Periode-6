@@ -15,3 +15,8 @@ Heute hat Herr Colic uns ein Quiz gegeben, welches wir entschlüsseln sollen. De
 ## 23.08.2024
 
 Herr Colic hat uns wieder ein kleines Projekt vorgeschlagen, wir sollten nicht Brute-Force anwenden, sondern man programmiert ein Programm, welches Die Häufigkeit der Deutschen Buchstaben in einem Text berechnet. Kurz gesagt: Man bekommt einen verschlüsselten Text und muss dazu ein Programm schreiben, was diesen Text anhand der Häufigkeit der Buchstaben im deutschen Alphabet entschlüsselt.
+
+- [ ] Methode finden wie man Buchstaben aus dem Text nimmt
+- [ ] Wie zählt man die Buchstaben zusammen
+- [ ] Methode zu translate finden
+- [ ] Verschlüsselten TExt entschlüsseln
