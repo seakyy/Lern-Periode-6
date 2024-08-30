@@ -31,7 +31,12 @@ https://stackoverflow.com/questions/36651729/dice-sorensen-distance-error-calcul
 
 
 ## 30.08.2024
-
+## /Neue Arbeitpackete
+- [ ] Modul 320 Weiterarbeiten
+- [ ] Modul 322 Promillerechner Anforderungen anpassen
+- [ ] Modul 231 DSL-Stoff vorholen
+    
+## /alte Arbeitspackete
 - [ ] 3 Verschiedene Sprachen importieren
 - [ ] zufälligen Cipher Text irgendwie bekommen / erstellen
 - [ ] Neuer Offsite berechnen
