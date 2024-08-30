@@ -32,9 +32,18 @@ https://stackoverflow.com/questions/36651729/dice-sorensen-distance-error-calcul
 
 ## 30.08.2024
 ## /Neue Arbeitpackete
-- [ ] Ich habe mir vorgenommen mein pacman zu erweitern
+- [ ] Ich habe mir vorgenommen mein Pacman zu erweitern
 - [ ] Alle 4 Richtungs-Gifs vom PacMan zu importieren
 - [ ] PacMan sollte mit den Pfeiltasten interagieren
+
+## Reflektion
+Heute habe ich zuerst ein paar Modul Test erledigt. Danach habe ich angefangen mein Pacman weiter zu programmieren. Ich habe heute die Coins manuel hinzugefügt. Das sollte für den Anfang ausreichen. Später wird das hoffentlich automatisiert. Dazu habe ich die vier verschiedenen Richtungen vom Pacman importiert. Ich habe eine kleine Zusatz-Funktion dank Herr Colic hinzugefügt, nämlich habe ich das Anpassen der Anwendung ausgeschalten, sodass man das Game nicht "Manipulieren" kann. Die vier Pfeiltasten werden erkannt. Nun habe ich angefangen den Speed zu instanzieren. Da bin ich noch dran.
+
+## 06.09.2024
+- [ ] Den Speed reparieren / Zum laufen zu bringen
+- [ ] Maximize und minimize Knopf in der Anwendung entfernen
+- [ ] Pacman kann sich bewegen
+- [ ] Pacman sollte nicht in die Gegner oder die Wand fahren
 
     
 ## "Backup" Arbeitspackete (Falls ich nichts zu tun habe)
