@@ -45,6 +45,16 @@ Heute habe ich zuerst ein paar Modul Test erledigt. Danach habe ich angefangen m
 - [ ] Pacman kann sich bewegen
 - [ ] Pacman sollte nicht in die Gegner oder die Wand fahren
 
+## Reflexion
+Heute habe ich leider nicht alle Arbeistpackete erledigen können. Zuerst hatte ich probleme mit dem Speed. Am Anfang dachte ich, dass das einfach zu beheben wird, aber mit der laufe der Zeit habe ich festgestellt, dass es eine sehr schwierige Herausforderung ist. Deshalb habe ich den ganzen Speed-Code gelöscht und nochmal neu geschrieben. Pacman kann sich immer noch nicht bewegen, dass sollte aber innerhalb von 20-40 Minuten geschafft sein. Heute war ich fast nur am Debuggen und habe ein Feature für pacman eingefügt, so dass sich sein maul in die gewünschte Richtung ändert.
+
+## 13.09.2024
+- [ ] Maximize und minimize Knopf in der Anwendung entfernen
+- [ ] Pacman kann sich bewegen
+- [ ] Pacman sollte nicht in die Gegner oder die Wand fahren
+- [ ] Labels für Score und einen timer einbauen
+
+
     
 ## "Backup" Arbeitspackete (Falls ich nichts zu tun habe)
 - [ ] 3 Verschiedene Sprachen importieren
