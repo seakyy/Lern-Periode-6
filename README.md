@@ -54,6 +54,15 @@ Heute habe ich leider nicht alle Arbeistpackete erledigen können. Zuerst hatte 
 - [ ] Pacman sollte nicht in die Gegner oder die Wand fahren
 - [ ] Labels für Score und einen timer einbauen
 
+## Reflexion
+Heute war ein sehr anstrengender Tag. Ich habe mich zuerst darum gekümmert das Maximize und Minimize aus meiner Anwendung zu entfernen. Danach musste ich noch ein paar Elemente Hinzufügen, sodass sich Pacman bewegen kann. Wenn Pacman in die Wand fährt oder in die Geister, dann wird das Spiel beendet. Ich habe dazu noch die zwei Labels hinzugefügt. Das erste Label ist für den Score und das zweite ist für den "Game-Over" Text.
+
+
+## 20.09.2024
+ - [ ] Geister sollen nicht durch die Wand laufen
+ - [ ] Geister sollen sich random bewegen
+ - [ ] Score sollte sich erhöhen wenn Pacman die Münzen berührt
+ - [ ] Münzen sollen nach 3 Sekunden wieder kommen
 
     
 ## "Backup" Arbeitspackete (Falls ich nichts zu tun habe)
