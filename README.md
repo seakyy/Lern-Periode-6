@@ -64,6 +64,10 @@ Heute war ein sehr anstrengender Tag. Ich habe mich zuerst darum gekümmert das 
  - [ ] Score sollte sich erhöhen wenn Pacman die Münzen berührt
  - [ ] Münzen sollen nach 3 Sekunden wieder kommen
 
+## 27.09.2024
+- [ ] Geister machen 90 Grad Drehung (anstatt 180)
+- [ ] Bugs fixen beim Restart vom Game
+- [ ] Random Spawns von Geistern
     
 ## "Backup" Arbeitspackete (Falls ich nichts zu tun habe)
 - [ ] 3 Verschiedene Sprachen importieren
