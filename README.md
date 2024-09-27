@@ -11,6 +11,10 @@ https://github.com/user-attachments/assets/1c87127d-a69b-4488-b025-a4adf7859195
 
 
 
+
+
+
+
 # Grobplanung
 
 In dieser Lernperiode möchte ich mich auf die Module fokussieren, aber mein Hauptfokus liegt auf ein 2D Spiel, nämlich Pac-Man.
@@ -83,6 +87,9 @@ Heute war ein sehr anstrengender Tag. Ich habe mich zuerst darum gekümmert das 
 - [ ] zufälligen Cipher Text irgendwie bekommen / erstellen
 - [ ] Neuer Offsite berechnen
 - [ ] Funktionen wie man sprachen erkennt
+
+
+
 
 
 # Reflexion
