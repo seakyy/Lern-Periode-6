@@ -2,6 +2,15 @@
 16.08.2024 - 27.09.2024
 
 
+# Showcase
+
+
+
+https://github.com/user-attachments/assets/1c87127d-a69b-4488-b025-a4adf7859195
+
+
+
+
 # Grobplanung
 
 In dieser Lernperiode möchte ich mich auf die Module fokussieren, aber mein Hauptfokus liegt auf ein 2D Spiel, nämlich Pac-Man.
@@ -74,3 +83,7 @@ Heute war ein sehr anstrengender Tag. Ich habe mich zuerst darum gekümmert das 
 - [ ] zufälligen Cipher Text irgendwie bekommen / erstellen
 - [ ] Neuer Offsite berechnen
 - [ ] Funktionen wie man sprachen erkennt
+
+
+# Reflexion
+In dieser LP habe ich an verschiedene Projekte gearbeitet, die mir sowohl technisch als aber auch logische Herausforderungen boten. Besonders wichtig in dieser LP war mir mein kleines PacMan Spiel, bei dem ich den Code für die Bewegungen, Interaktionen und die Spielmechaniken entwickeln konnte. Parallel dazu habe ich mich auch mit Kryptographie befasst, bzw. ein programm geschrieben welches verschlüsselte Texte entschlüsselt ohne den Schlüssel zu wissen. Diese beide Projekte haben mir sehr geholfen meine Problemlösungsfähigkeiten und mein Verständnis für Algorithmen zu vertiefen. Während dieser Zeit habe ich auch gelernt, dass man oft bestehende Ansätze überdenken und neu starten muss, besonders wenn etwas nicht funktioniert, was bei beinem PacMan Spiel oft der Fall war. Rückblickend aber bin ich sehr stolz auf meinen Fortschritt, auch wenn es gelegentlich ziemlich frustrierend war.
